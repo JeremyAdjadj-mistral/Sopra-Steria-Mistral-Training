@@ -7,7 +7,7 @@ This repository provides hands-on resources, examples, and cookbooks to support 
 - Clone the repository:
 
 ```shell
-git clone [https://github.com/mistralai/mistral-ai-enablement.git](https://github.com/JeremyAdjadj-mistral/Sopra-Steria-Mistral-Training.git)
+git clone https://github.com/JeremyAdjadj-mistral/Sopra-Steria-Mistral-Training.git
 ```
 
 - Add a `.env` file at the root of the repository and put your Mistral API key in there under `MISTRAL_API_KEY`.
