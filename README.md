@@ -42,6 +42,7 @@ Edit the README.md to describe your use case.
 
 Then commit and push :
 ```shell
+git pull origin main --rebase
 git add agentic-hackathon-your-team-name
 git commit -m "Add initial directory for team agentic project"
 git push
